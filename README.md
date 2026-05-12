@@ -13,9 +13,9 @@ All CSV files are stored in the [`torlist-db/`](./torlist-db/) directory.
 
 | File | Description |
 |------|-------------|
-| `latest.all.csv` | Every running relay |
-| `latest.guards.csv` | Guard (entry) nodes only |
-| `latest.exits.csv` | Exit nodes only |
+| [`latest.all.csv`](./torlist-db/latest.all.csv) | Every running relay |
+| [`latest.guards.csv`](./torlist-db/latest.guards.csv) | Guard (entry) nodes only |
+| [`latest.exits.csv`](./torlist-db/latest.exits.csv) | Exit nodes only |
 
 ### CSV format
 
